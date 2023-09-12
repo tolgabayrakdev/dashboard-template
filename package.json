@@ -1,6 +1,6 @@
 {
   "name": "sakai-react",
-  "version": "10.1.0-SNAPSHOT",
+  "version": "tolgabayrakdev-dashboard-template",
   "private": true,
   "scripts": {
     "dev": "next dev",
